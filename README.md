@@ -40,24 +40,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veenrok&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=veenrok&theme=github-dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabel=8b949e&sideNums=8b949e&dates=8b949e" alt="Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=veenrok&theme=github-dark&no-frame=true&row=1&column=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=veenrok&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=8b949e&area=true&hide_border=true)
-
----
 
 ## 📬 Connect With Me
 
